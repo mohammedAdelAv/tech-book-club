@@ -285,6 +285,7 @@ body {
 
 .club {
   padding-top: 120px;
+  margin: 0 auto;
 }
 
 
@@ -1497,11 +1498,11 @@ body {
 
   .club .container .row {
     grid-template-columns: 1fr;
-    width: 375px;
+    width: 410px;
     height: 683px;
     left: 0px;
     top: 1988px;
-    padding-left: 16PX;
+    padding-left: 32PX;
     margin: 0 auto;
   }
 
