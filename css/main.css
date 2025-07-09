@@ -1502,6 +1502,7 @@ body {
     left: 0px;
     top: 1988px;
     padding-left: 16PX;
+    margin: 0 auto;
   }
 
   .club .container .row .clubImg img {
@@ -1527,6 +1528,7 @@ body {
   .journey .container {
     width: 370px;
     height: 701px;
+    margin: 0 auto;
   }
 
   .journey .container .Hh2 {
@@ -1544,6 +1546,7 @@ body {
     grid-template-columns: 1fr;
     width: 308px;
     height: 409px;
+    margin: 0 auto;
   }
 
   .journey .container .row .rowText {
