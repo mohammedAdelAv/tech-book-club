@@ -1293,7 +1293,7 @@ body {
   /* section footer */
 
   .ready {
-    width: 390px;
+    width: 399px;
     height: 560px;
   }
 
@@ -1324,9 +1324,10 @@ body {
   }
 
   .ready .container .btn a {
-    width: 354px;
+    width: 345px;
     height: 64px;
     font-size: var(--fs-mobile);
+    
   }
 
   .ready .foterContent {
