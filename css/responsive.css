@@ -1,0 +1,292 @@
+
+
+@media (max-width: 769px) {
+
+    body {
+        height: 6890PX;
+
+    }
+
+    /* section hero */
+
+    .hero {
+        width: 768px;
+        height: 1558px;
+        gap: 64px;
+    }
+
+    .hero .imgHero {
+        padding: 32px 135px 0 40px;
+    }
+
+    .hero .imgHero a {
+        width: 193px;
+        height: 36px;
+    }
+
+    .hero .row {
+        grid-template-columns: 1fr;
+        width: 704px;
+        height: 1346px;
+        padding: 64px 0 80px 0;
+    }
+
+    .hero .row .btn a {
+        width: 388px;
+        height: 64px;
+    }
+
+    .hero .row .heroImage {
+        width: 704px;
+        height: 790px;
+    }
+
+    .hero .container .glow {
+        left: 426px;
+        top: 1173px;
+    }
+
+    .hero .container .glow img {
+        left: 426px;
+    }
+
+    /* section read */
+
+    .read {
+        padding-top: 80px;
+    }
+
+    .read .row {
+        grid-template-columns: 1fr;
+        width: 768px;
+        height: 1042px;
+        gap: 40px;
+        left: 0px;
+        top: 1638px;
+        padding-left: 32PX;
+    }
+
+    .read .container .row .image-read {
+        width: 704px;
+        height: 654px;
+    }
+
+    .read .container .row .readRead {
+        order: 0;
+    }
+
+    .read .container .row .readImg {
+        order: 1;
+    }
+
+    /* section club */
+
+    .club {
+        padding-top: 160px;
+    }
+
+    .club .container .row {
+        grid-template-columns: 1fr;
+        width: 768px;
+        height: 932px;
+        gap: 40px;
+        left: 0px;
+        top: 2760px;
+        padding-left: 32PX;
+    }
+
+    .club .container .row .clubImg img {
+        width: 704px;
+        height: 654px;
+    }
+
+    .club .container .row .clubText p::after {
+        right: 55px;
+        bottom: -650px;
+    }
+
+    /* section journey */
+
+    .journey {
+        padding-top: 80px;
+    }
+
+    .journey .container {
+        width: 704px;
+        height: 806px;
+    }
+
+    .journey .container .Hh2 {
+        text-align: left;
+        width: 640px;
+        height: 130px;
+        margin-bottom: 130px;
+    }
+
+    .journey .container .row {
+        grid-template-columns: 1fr;
+        width: 640px;
+        height: 468px;
+    }
+
+    .journey .container .row .rowText {
+        width: 640px;
+        height: 87px;
+    }
+
+    .journey .container .row .after::after {
+        content: url();
+    }
+
+    .journey .container .glow {
+        left: 299px;
+        top: 405px;
+    }
+
+    .journey .container .glow img {
+        left: 299px;
+    }
+
+    /* section membership */
+
+    .membership {
+        padding-top: 80px;
+    }
+
+    .membership .container {
+        width: 768px;
+        height: 845px;
+        left: 0px;
+        top: 4657px;
+        padding-left: 32PX;
+    }
+
+    .membership .container h2 {
+        text-align: left;
+    }
+
+    .membership .container .row {
+        grid-template-columns: repeat(2, 1fr);
+        text-align: center;
+        width: 704px;
+        height: 740px;
+
+    }
+
+    .membership .container .row .sp {
+        width: 340px;
+        height: 358px;
+        margin: "";
+    }
+
+    .membership .container .row .sp1 {
+        width: 340px;
+        height: 358px;
+    }
+
+    .membership .container .row .membershipCard hr {
+        width: 292px;
+    }
+
+    /* section book */
+
+    .book {
+        padding: 80px 0 80px 0;
+    }
+
+    .book .container {
+        text-align: left;
+        width: 768px;
+        height: 384px;
+        padding-left: 32PX;
+    }
+
+    .book .container h6 {
+        width: 704px;
+        height: 264px;
+    }
+
+    /* section footer */
+
+    .ready .foterContent {
+        width: 768px;
+    }
+}
+
+
+@media (max-width: 376px) {
+
+
+    body {
+        height: 6890PX;
+
+    }
+
+    /* section hero */
+
+    .hero {
+        width: 357px;
+        height: 1117px;
+        gap: 64px;
+    }
+
+    .hero .imgHero {
+        padding: 32px 135px 0 40px;
+    }
+
+    .hero .imgHero a {
+        width: 193px;
+        height: 36px;
+    }
+
+    .hero .row {
+        grid-template-columns: 1fr;
+        width: 343px;
+        height: 929px;
+        padding: 48px 0 80px 0;
+    }
+
+    .hero .row h1 {
+        font-size: var(--fs-xl);
+        line-height: var(--lh-120);
+        letter-spacing: var(--ls--2);
+    }
+
+    .hero .row .btn a {
+        width: 343px;
+        height: 64px;
+    }
+
+    .hero .row .btn a {
+        width: 343px;
+        font-size: var(--);
+        line-height: var(--lh-130);
+        letter-spacing: var(--ls--1);
+        font-weight: var(--fw-semibold);
+        font-family: var(--font-martian);
+    }
+
+    .hero .row .heroImage {
+        width: 343px;
+        height: 385px;
+    }
+
+    .hero .container .glow {
+        left: 426px;
+        top: 733px;
+    }
+
+    .hero .container .glow img {
+        left: 426px;
+    }
+
+
+
+
+
+
+
+
+
+
+}
