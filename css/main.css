@@ -1451,7 +1451,7 @@ body {
     top: 1181px;
     padding-left: 16PX;
     margin: 0 auto;
-
+    padding-left: 32PX;
   }
 
   .read .container .row .image-read {
@@ -1484,6 +1484,7 @@ body {
 
   .club {
     padding-top: 80px;
+    margin: 0 auto;
   }
 
   .club .container .row .clubText h2 {
@@ -1520,6 +1521,7 @@ body {
 
   .journey {
     padding-top: 80px;
+    margin: 0 auto;
   }
 
   .journey .container {
@@ -1583,7 +1585,7 @@ body {
     height: 1228px;
     left: 0px;
     top: 3499px;
-    padding-left: 16PX;
+    padding-left: 32PX;
   }
 
   .membership .container h2 {
@@ -1621,13 +1623,14 @@ body {
 
   .book {
     padding: 80px 0 80px 0;
+     margin: 0 auto;
   }
 
   .book .container {
     text-align: left;
     width: 410px;
     height: 354px;
-    padding-left: 16PX;
+    padding-left: 32PX;
   }
 
   .book .container h6 {
@@ -1647,6 +1650,7 @@ body {
   .ready {
     width: 410px;
     height: 560px;
+     margin: 0 auto;
   }
 
   .ready .container {
